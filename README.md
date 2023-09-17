@@ -2,7 +2,9 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=camel0000)](https://solved.ac/camel0000/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camel0000&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camel0000&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camel0000&layout=compact)
+
 
 <!--
 **camel0000/camel0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
